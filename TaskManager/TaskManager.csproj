@@ -53,6 +53,9 @@
     <Compile Include="CommandLine.Designer.cs">
       <DependentUpon>CommandLine.cs</DependentUpon>
     </Compile>
+    <Compile Include="LitsVIewSmooth.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
